@@ -7,4 +7,4 @@ if int(bmi*10000) >= 25:
     print(int(bmi*10000))
     print("Obesity")
 else:
-    print(bmi)
+    print(int(bmi*10000))
